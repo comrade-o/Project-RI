@@ -1,0 +1,43 @@
+(Part 1 - Nazi section)
+(Title)
+The technological advancements and breakthroughs of the Third Reich 
+
+(Main Paragraph 1)
+Nazi Germany catalyzed many groundbreaking technological inventions that are frequently in use today. The nation was infamous for its "WunderWaffe"(Wonder Weapons), Many cutting-edge technologies were constructed and used despite being considered "too advanced for the time". During WWII Nazi Germany held the sole number-one spot as the nation with the most technologically advanced devices and weapons.
+
+(Confirmed Paragraph 2)
+The world's first NVDs(Night Vision Devices) were constructed and tested by the Reich during WW2. The FG 1250 or Fahr- und Zielgerät FG 1250 (driving and aiming device FG 1250) was a German active infrared night vision device mounted on tanks and other armored vehicles. It was developed by Ing Gaertner of the German optics company Carl Zeiss AG beginning in 1941. According to different sources, it was developed by AEG and produced by Ernst Leitz GmbH. It consisted of a specialized mount, active infrared spotlight, and accompanying image converter. In the later stages of World War II the bulky FG 1250 active infrared unit was paired to some MG 42's on Sd.Kfz. 251/1 Falke half-track armored personnel carriers and MG 34's on PzKpfw V Panther tanks. These devices were immensely successful during night battles but due to the war on two fronts and decreasing financial capabilities, only a small number of these devices were manufactured and used in active combat.
+
+(Include Image 1 with caption - "The FG1250 night vision device", and Image 2 with caption = "A FG1250, the world's first night vision device mounted on a Panzer Kampfwagen Panther A tank-1944")
+
+(Potential Paragraph 3)
+
+The first ever functional jet propulsion systems for aircraft were constructed and tested by Nazi Germany. The Messerschmitt Me 262, nicknamed Schwalbe (German: "Swallow") in fighter versions, or Sturmvogel (German: "Storm Bird") in fighter-bomber versions, is a fighter aircraft and fighter-bomber that was designed and produced by the German aircraft manufacturer Messerschmitt. It was the world's first operational jet-powered fighter aircraft and "the only jet fighter to see air-to-air combat in World War Two". One of the most advanced WWII combat aircraft, the Me 262 operated as a light bomber, reconnaissance aircraft, and experimental night fighter. The Me 262 proved an effective dogfighter against Allied fighters; German pilots claimed 542 Allied aircraft were shot down. Another prototype for a high-altitude strategic bomber by the name of  "Horton 229" was also constructed which consisted of two Jet propulsion systems on an aerodynamic fixed-wing chassis, but ultimately due to the losing war and damage inflicted on fuel supplies, it was never used.
+
+(Insert Image 3 with caption-"The Messerschmitt Me 262-1944" and Image 4 with caption="The Prototype of a Horton 229-1944")
+
+(Potential Paragraph 4)
+The Germans were the first to pioneer the assault rifle concept during World War II, based upon research that showed that most firefights happen within 400m (1,300 ft) and that contemporary rifles were overpowered and slow for most small arms combat. They would soon develop a select-fire intermediate-powered rifle combining the firepower of a submachine gun with the range and accuracy of a rifle. The result was the Sturmgewehr 44, It fired a new and revolutionary intermediate-powered cartridge, the 7.92×33mm Kurz. This new cartridge was developed by shortening the standard 7.92×57mm Mauser round and giving it a lighter 125-grain bullet, which limited range but allowed for more controllable automatic fire. A smaller, lighter cartridge also allowed soldiers to carry more ammunition "to support the higher consumption rate of automatic fire." More than half a million of these were manufactured and used in active combat. The model of the Sturmgewehr 44 served as the basis for many ARs used today such as the legendary Kalashnikov(AK) platform, M4 or AR platform, and many others.
+
+(Insert Image 5 with caption-"A production model of the Sturmgeweher 44(STG 44)")
+
+(Part 2 Soviet section)
+(Title)
+The technological advancements and breakthroughs of the Soviet Union
+
+(Multi Paragraph 1)
+
+The Soviet Union was widely regarded as the pioneer of the space race, a time when the US and the USSR were engaged in a technological war related to Interstellar technologies. The USSR was responsible for the construction of the first-ever space station, satellite,  landing craft, and the record of sending the first human(Yuri Gagarin) into the vast cosmos. The nation was leagues ahead of the US in terms of technological breakthroughs only losing during the latter part due to the rising diplomatic tensions. The following are some of the cutting-edge technology first developed the by union;
+
+The Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the Soviet Union on 4 October 1957 as part of the Soviet space program. It was a polished metal sphere 58 cm (23 in) in diameter with four external radio antennas to broadcast radio pulses. Its radio signal was easily detectable by amateur radio operators, and the 65° orbital inclination made its flight path cover virtually the entire inhabited Earth. Sputnik 1 was launched during the International Geophysical Year from Site No.1/5, at the 5th Tyuratam range, in Kazakh SSR (now known as the Baikonur Cosmodrome). The satellite traveled at a peak speed of about 8 km/s (18,000 mph), taking 96.20 minutes to complete each orbit. It transmitted on 20.005 and 40.002 MHz, which were monitored by radio operators throughout the world. The signals continued for 22 days until the transmitter batteries depleted on 26 October 1957. On 4 January 1958, after three months in orbit, Sputnik 1 burned up while reentering Earth's atmosphere, having completed 1,440 orbits of the Earth, and traveling a distance of approximately 70,000,000 km (43,000,000 mi).
+
+[Insert Image 6 with caption- "A replica of the Sputnik 1- Museum of Space and Technology (St. Petersburg)]
+
+The first space station was the Salyut 1, which was launched by the Soviet Union on April 19, 1971. The early Soviet stations were all designated "Salyut", but among these, there were two distinct types: civilian and military. The military stations, Salyut 2, Salyut 3, and Salyut 5, were also known as Almaz stations. The civilian stations Salyut 6 and Salyut 7 were built with two docking ports, which allowed a second crew to visit, bringing a new spacecraft with them; the Soyuz ferry could spend 90 days in space, at which point it needed to be replaced by a fresh Soyuz spacecraft. This allowed for a crew to man the station continually. The American Skylab (1973–1979) was also equipped with two docking ports, like second-generation stations, but the extra port was never used. The presence of a second port on the new stations allowed Progress supply vehicles to be docked to the station, meaning that fresh supplies could be brought to aid long-duration missions. This concept was expanded on Salyut 7, which "hard docked" with a TKS tug shortly before it was abandoned; this served as a proof of concept for the use of modular space stations. The later Salyuts may reasonably be seen as a transition between the two groups. These first models of the space station served as the basis for the modern ISS(Internation Space Station).
+
+(Insert Image 7 with caption- "The space station Salyut 1 in orbit-1971)
+
+(Paragraph 2)
+APS(Active Protection System) is a military platform that is used to defend against anti-tank weaponry such as RPGs and Javelins. "Drozd"  is an active protection system (APS) developed in the Soviet Union, designed for increase tanks' protection against anti-tank missiles and RPGs. It is the world's first operational active protection system and was created in 1977–78 by the KBP design bureau of A. G. Shipunov. Drozd uses 24.5 GHz Doppler radar to detect incoming rounds traveling between 70 and 700 m/s (to avoid engaging small arms or other faster projectiles). Its computer determines when to fire a 107 mm projectile. When the incoming round is at the 7 m range, the Drozd fragmentation warhead detonates, spreading 3-gram slugs to destroy the incoming round. Each unit costs around $30,000 and was 80 percent successful against incoming RPGs in Afghanistan. The design served as the basis for Russia's modern APS systems such as the Arena and Afganit. 
+
+(Inset Image 8 with caption- "A T55AD-U with the Drozd Active Protection System on turret")
