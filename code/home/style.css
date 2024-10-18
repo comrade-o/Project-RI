@@ -70,7 +70,7 @@ body {
 }
 
 .container {
-    height: 78vh;
+    height: 82vh;
     width: 100%;
     background-image: linear-gradient(whitesmoke, aliceblue);
 }
@@ -94,11 +94,22 @@ body {
     font-size: 50px;
 }
 
+.home-content-bg {
+    border: 0px solid;
+    border-radius: 50px;
+    width: 30%;
+    height: 300px;
+    margin-left: 13%;
+    margin-top: 40px;
+    background-color: #ffb888;
+}
+
 #home-content {
     color: #2b4560;
     font-family: "Century Gothic";
-    margin-left: 13%;
-    margin-top: 3%;
+    margin-left: 10%;
+    position: relative;
+    bottom: -20px;
     font-size: 20px;
 }
 
@@ -112,6 +123,7 @@ body {
     padding: 8px;
     border-radius: 36px;
     transition: .5s;
+    text-decoration: none;
 }
 
 #r-arrow:hover {
